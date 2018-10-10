@@ -1,7 +1,7 @@
 // server.js
 import express from 'express';
 
-import reflectionRoute from './src/usingDB/routes/Reflection';
+import reflectionRoute from './src/usingJSObject/routes/Reflection';
 
 const app = express();
 
